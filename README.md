@@ -110,6 +110,6 @@ You: quit
 
 ## Author
 
-**Suhani Verma**
+Suhani Verma
 
-B.Tech – AI & Data Engineering
+
